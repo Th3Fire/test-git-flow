@@ -1,0 +1,14 @@
+{
+  "name": "test-git-flow",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "repository": "git@github.com:AlphaDel/test-git-flow.git",
+  "author": "Wuttinan Chaoyos <wuttinan.c@appman.co.th>",
+  "license": "MIT",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.1.1"
+  }
+}
